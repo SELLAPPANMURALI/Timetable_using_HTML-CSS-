@@ -1,0 +1,29 @@
+body{
+    background-image: url(./assets/bg.webp);
+    background-color:rgb(214, 246, 134);
+    background-repeat: no-repeat; 
+      background-position: center; 
+      background-size: cover; 
+      background-attachment: fixed;
+      margin: 0;
+      padding: 0;
+}
+.right{
+    position: relative;
+    right: -1100px;
+}
+.left{
+ position: relative;
+ right: -200px;
+}
+
+.collegename{
+    text-align: center;
+}
+.table{
+     position: relative;
+     right: -210px;
+     font-size:large;
+     font-family: cursive;
+     color: rgb(0, 0, 0);
+}
